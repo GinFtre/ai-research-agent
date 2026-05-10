@@ -1,0 +1,10 @@
+openai
+pandas
+numpy
+scikit-learn
+pypdf
+matplotlib
+scipy
+statsmodels
+pyDOE2
+python-dotenv
